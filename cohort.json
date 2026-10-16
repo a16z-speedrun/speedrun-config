@@ -10,8 +10,30 @@
     "alpha": {
       "cohort": "Alpha",
       "milestone": "Showcase",
-      "demo_day": "2027-03-01T09:00:00-07:00",
+      "demo_day": "2027-03-01T09:00:00-08:00",
       "date_label": "March 1, 2027"
+    },
+    "SR007": {
+      "cohort": "SR007",
+      "milestone": "Demo Day",
+      "progress_day": "2026-09-08T09:00:00-07:00",
+      "demo_day": "2026-10-06T09:00:00-07:00",
+      "raise_ends": "2026-12-06T23:59:00-08:00",
+      "date_label": "October 6, 2026"
+    },
+    "SR008": {
+      "cohort": "SR008",
+      "milestone": "Demo Day",
+      "kickoff": "2027-02-02T09:00:00-08:00",
+      "progress_day": "2027-03-17T09:00:00-07:00",
+      "demo_day": "2027-04-13T09:00:00-07:00",
+      "date_label": "April 13, 2027"
+    },
+    "SR009": {
+      "cohort": "SR009",
+      "milestone": "Demo Day",
+      "demo_day": "2027-10-05T09:00:00-07:00",
+      "date_label": "October 5, 2027"
     }
   },
   "statusline": {
